@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mgmark3.github.io/sitemap.xml
+Sitemap: https://ronam555.github.io/krn/sitemap.xml
