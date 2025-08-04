@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ronam555.github.io/krn/sitemap.xml
