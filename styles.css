@@ -49,4 +49,61 @@
         padding: 15px 20px;
         font-size: 18px;
     }
+}
+
+/* Стили для похожих страниц */
+.related-pages {
+    margin: 40px 0;
+    padding: 25px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    border-left: 4px solid #007bff;
+}
+
+.related-pages h2 {
+    color: #333333;
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.related-pages ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.related-pages li {
+    margin-bottom: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.related-pages li:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.related-pages a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.related-pages a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* Адаптивность для похожих страниц */
+@media (max-width: 768px) {
+    .related-pages {
+        margin: 30px 0;
+        padding: 20px;
+    }
+    
+    .related-pages h2 {
+        font-size: 18px;
+    }
 } 
