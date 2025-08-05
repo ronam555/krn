@@ -55,13 +55,13 @@
 .related-pages {
     margin: 40px 0;
     padding: 25px;
-    background-color: #f8f9fa;
+    background-color: #2a2a2a;
     border-radius: 12px;
     border-left: 4px solid #007bff;
 }
 
 .related-pages h2 {
-    color: #333333;
+    color: #ffffff;
     font-size: 20px;
     margin-bottom: 15px;
     font-weight: 600;
@@ -76,7 +76,7 @@
 .related-pages li {
     margin-bottom: 10px;
     padding: 8px 0;
-    border-bottom: 1px solid #e9ecef;
+    border-bottom: 1px solid #404040;
 }
 
 .related-pages li:last-child {
